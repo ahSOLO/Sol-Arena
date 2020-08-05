@@ -1,0 +1,4556 @@
+fileFormatVersion: 2
+guid: 9e9dcca6f075f8b4d86ea04ec88d5276
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 225696473189830606
+    second: TILESET_darksouls2_0
+  - first:
+      213: -8049351976731222203
+    second: TILESET_darksouls2_1
+  - first:
+      213: 2086268937214318990
+    second: TILESET_darksouls2_2
+  - first:
+      213: 4641772490442709787
+    second: TILESET_darksouls2_3
+  - first:
+      213: -3431930806076954453
+    second: TILESET_darksouls2_4
+  - first:
+      213: 5402443255890696305
+    second: TILESET_darksouls2_5
+  - first:
+      213: -7155269936305487835
+    second: TILESET_darksouls2_6
+  - first:
+      213: 6209130361259801488
+    second: TILESET_darksouls2_7
+  - first:
+      213: -1329998523199653820
+    second: TILESET_darksouls2_8
+  - first:
+      213: -571608550379150190
+    second: TILESET_darksouls2_9
+  - first:
+      213: -1514533221009113745
+    second: TILESET_darksouls2_10
+  - first:
+      213: -4498305735724054813
+    second: TILESET_darksouls2_11
+  - first:
+      213: 9021123879343656882
+    second: TILESET_darksouls2_12
+  - first:
+      213: -8842461116993477531
+    second: TILESET_darksouls2_13
+  - first:
+      213: 6650602809126078896
+    second: TILESET_darksouls2_14
+  - first:
+      213: 6157729249478281660
+    second: TILESET_darksouls2_15
+  - first:
+      213: -3765930638090940626
+    second: TILESET_darksouls2_16
+  - first:
+      213: 750720575946919552
+    second: TILESET_darksouls2_17
+  - first:
+      213: 5119904630969718380
+    second: TILESET_darksouls2_18
+  - first:
+      213: -4276689614486455204
+    second: TILESET_darksouls2_19
+  - first:
+      213: -4160369289046616288
+    second: TILESET_darksouls2_20
+  - first:
+      213: -1900554270162795819
+    second: TILESET_darksouls2_21
+  - first:
+      213: -5061747060048696568
+    second: TILESET_darksouls2_22
+  - first:
+      213: 759618753381882137
+    second: TILESET_darksouls2_23
+  - first:
+      213: -7331186342478003557
+    second: TILESET_darksouls2_24
+  - first:
+      213: 6552408209585861446
+    second: TILESET_darksouls2_25
+  - first:
+      213: 5599513008534354640
+    second: TILESET_darksouls2_26
+  - first:
+      213: 5848722513737376130
+    second: TILESET_darksouls2_27
+  - first:
+      213: 4714325336688019203
+    second: TILESET_darksouls2_28
+  - first:
+      213: -3259452622962403074
+    second: TILESET_darksouls2_29
+  - first:
+      213: 7966308832161687131
+    second: TILESET_darksouls2_30
+  - first:
+      213: 5699612808052902083
+    second: TILESET_darksouls2_31
+  - first:
+      213: 1632602226287125529
+    second: TILESET_darksouls2_32
+  - first:
+      213: 1167688568480221849
+    second: TILESET_darksouls2_33
+  - first:
+      213: 3197475477062104126
+    second: TILESET_darksouls2_34
+  - first:
+      213: 2440182136250741351
+    second: TILESET_darksouls2_35
+  - first:
+      213: -7370330970405389720
+    second: TILESET_darksouls2_36
+  - first:
+      213: 5359333770696000843
+    second: TILESET_darksouls2_37
+  - first:
+      213: 4496634299907829120
+    second: TILESET_darksouls2_38
+  - first:
+      213: 318263074147330458
+    second: TILESET_darksouls2_39
+  - first:
+      213: 8860837819604024663
+    second: TILESET_darksouls2_40
+  - first:
+      213: -5610281071155347320
+    second: TILESET_darksouls2_41
+  - first:
+      213: 1617891875386275450
+    second: TILESET_darksouls2_42
+  - first:
+      213: 2668442047484429659
+    second: TILESET_darksouls2_43
+  - first:
+      213: -2597639602653517633
+    second: TILESET_darksouls2_44
+  - first:
+      213: -2004906475492102082
+    second: TILESET_darksouls2_45
+  - first:
+      213: -4272780378322287665
+    second: TILESET_darksouls2_46
+  - first:
+      213: 6101839743238026036
+    second: TILESET_darksouls2_47
+  - first:
+      213: 5103998028745763426
+    second: TILESET_darksouls2_48
+  - first:
+      213: -2909838892128060852
+    second: TILESET_darksouls2_49
+  - first:
+      213: 250874633264321195
+    second: TILESET_darksouls2_50
+  - first:
+      213: -2910511185577650841
+    second: TILESET_darksouls2_51
+  - first:
+      213: 4529228847914544195
+    second: TILESET_darksouls2_52
+  - first:
+      213: 1516573165208894420
+    second: TILESET_darksouls2_53
+  - first:
+      213: 7362342019022459977
+    second: TILESET_darksouls2_54
+  - first:
+      213: 782576298362517093
+    second: TILESET_darksouls2_55
+  - first:
+      213: -7050161969737357169
+    second: TILESET_darksouls2_56
+  - first:
+      213: 8389103516827576615
+    second: TILESET_darksouls2_57
+  - first:
+      213: 4754046298833879896
+    second: TILESET_darksouls2_58
+  - first:
+      213: -3563721120792837495
+    second: TILESET_darksouls2_59
+  - first:
+      213: 7859505886581846058
+    second: TILESET_darksouls2_60
+  - first:
+      213: -2938686046393118281
+    second: TILESET_darksouls2_61
+  - first:
+      213: 4849067403258779554
+    second: TILESET_darksouls2_62
+  - first:
+      213: 3614736809705756784
+    second: TILESET_darksouls2_63
+  - first:
+      213: 8099793178221079765
+    second: TILESET_darksouls2_64
+  - first:
+      213: -3388670485382442586
+    second: TILESET_darksouls2_65
+  - first:
+      213: 4784240097908086433
+    second: TILESET_darksouls2_66
+  - first:
+      213: 8390514629172968293
+    second: TILESET_darksouls2_67
+  - first:
+      213: 4772635102021494448
+    second: TILESET_darksouls2_68
+  - first:
+      213: -4498943050921503796
+    second: TILESET_darksouls2_69
+  - first:
+      213: -8743910544569552185
+    second: TILESET_darksouls2_70
+  - first:
+      213: -7272886206294237392
+    second: TILESET_darksouls2_71
+  - first:
+      213: -2591067298755127010
+    second: TILESET_darksouls2_72
+  - first:
+      213: -3294816288388675512
+    second: TILESET_darksouls2_73
+  - first:
+      213: 2589862570073800301
+    second: TILESET_darksouls2_74
+  - first:
+      213: -7451567479382792465
+    second: TILESET_darksouls2_75
+  - first:
+      213: -4997771886289422535
+    second: TILESET_darksouls2_76
+  - first:
+      213: 8799781612049593781
+    second: TILESET_darksouls2_77
+  - first:
+      213: -7761683036795264745
+    second: TILESET_darksouls2_78
+  - first:
+      213: -6772972373732409492
+    second: TILESET_darksouls2_79
+  - first:
+      213: -137454802099423375
+    second: TILESET_darksouls2_80
+  - first:
+      213: 7234017654120561950
+    second: TILESET_darksouls2_81
+  - first:
+      213: 8960993312323351806
+    second: TILESET_darksouls2_82
+  - first:
+      213: -7370900228212505011
+    second: TILESET_darksouls2_83
+  - first:
+      213: -4734249118372116445
+    second: TILESET_darksouls2_84
+  - first:
+      213: -3857435375818600811
+    second: TILESET_darksouls2_85
+  - first:
+      213: 6103573827615024788
+    second: TILESET_darksouls2_86
+  - first:
+      213: 6782322977012849618
+    second: TILESET_darksouls2_87
+  - first:
+      213: -2615363710808066008
+    second: TILESET_darksouls2_88
+  - first:
+      213: 486823318057653652
+    second: TILESET_darksouls2_89
+  - first:
+      213: -3372313972244826307
+    second: TILESET_darksouls2_90
+  - first:
+      213: 6917606629218892983
+    second: TILESET_darksouls2_91
+  - first:
+      213: 5902237125461364542
+    second: TILESET_darksouls2_92
+  - first:
+      213: -1678326333102352258
+    second: TILESET_darksouls2_93
+  - first:
+      213: -795928480177051787
+    second: TILESET_darksouls2_94
+  - first:
+      213: -582183612790198689
+    second: TILESET_darksouls2_95
+  - first:
+      213: 6065087658391774059
+    second: TILESET_darksouls2_96
+  - first:
+      213: -7966041964493196634
+    second: TILESET_darksouls2_97
+  - first:
+      213: 7823568909710976813
+    second: TILESET_darksouls2_98
+  - first:
+      213: 3357354129882314935
+    second: TILESET_darksouls2_99
+  - first:
+      213: 7390909923048286432
+    second: TILESET_darksouls2_100
+  - first:
+      213: 3554801498710122586
+    second: TILESET_darksouls2_101
+  - first:
+      213: 8325988234674639496
+    second: TILESET_darksouls2_102
+  - first:
+      213: -1135461757253473599
+    second: TILESET_darksouls2_103
+  - first:
+      213: -3804949469943972984
+    second: TILESET_darksouls2_104
+  - first:
+      213: 8953692970139900383
+    second: TILESET_darksouls2_105
+  - first:
+      213: 5656819183036712445
+    second: TILESET_darksouls2_106
+  - first:
+      213: -6427872482586395830
+    second: TILESET_darksouls2_107
+  - first:
+      213: 9196764247886568086
+    second: TILESET_darksouls2_108
+  - first:
+      213: 3163796624477809089
+    second: TILESET_darksouls2_109
+  - first:
+      213: 7577448088701826876
+    second: TILESET_darksouls2_110
+  - first:
+      213: -171411895861914223
+    second: TILESET_darksouls2_111
+  - first:
+      213: -2126762164416822953
+    second: TILESET_darksouls2_112
+  - first:
+      213: 1317534979839403581
+    second: TILESET_darksouls2_113
+  - first:
+      213: 1027434108997654394
+    second: TILESET_darksouls2_114
+  - first:
+      213: 1687162798898705688
+    second: TILESET_darksouls2_115
+  - first:
+      213: -6448333142213794325
+    second: TILESET_darksouls2_116
+  - first:
+      213: -627196841516571505
+    second: TILESET_darksouls2_117
+  - first:
+      213: 5046667990044318330
+    second: TILESET_darksouls2_118
+  - first:
+      213: -7382242298131089256
+    second: TILESET_darksouls2_119
+  - first:
+      213: 3595460440984778857
+    second: TILESET_darksouls2_120
+  - first:
+      213: 579390483110387571
+    second: TILESET_darksouls2_121
+  - first:
+      213: 9453220048423365
+    second: TILESET_darksouls2_122
+  - first:
+      213: -9145194796715190527
+    second: TILESET_darksouls2_123
+  - first:
+      213: 8780919921164364234
+    second: TILESET_darksouls2_124
+  - first:
+      213: 8061261422725555646
+    second: TILESET_darksouls2_125
+  - first:
+      213: 6725037001599507032
+    second: TILESET_darksouls2_126
+  - first:
+      213: 6293854982918424279
+    second: TILESET_darksouls2_127
+  - first:
+      213: 6498080690931634793
+    second: TILESET_darksouls2_128
+  - first:
+      213: 8287888098346267272
+    second: TILESET_darksouls2_129
+  - first:
+      213: 8325234181160686501
+    second: TILESET_darksouls2_130
+  - first:
+      213: -944876451746502046
+    second: TILESET_darksouls2_131
+  - first:
+      213: 6075237245507535853
+    second: TILESET_darksouls2_132
+  - first:
+      213: -1160149524247960055
+    second: TILESET_darksouls2_133
+  - first:
+      213: -3897519239332104550
+    second: TILESET_darksouls2_134
+  - first:
+      213: -296026024100610451
+    second: TILESET_darksouls2_135
+  - first:
+      213: -5818625463256412688
+    second: TILESET_darksouls2_136
+  - first:
+      213: 8693280984481928029
+    second: TILESET_darksouls2_137
+  - first:
+      213: 5748451163596250584
+    second: TILESET_darksouls2_138
+  - first:
+      213: 9051991034185406224
+    second: TILESET_darksouls2_139
+  - first:
+      213: 383233822053659062
+    second: TILESET_darksouls2_140
+  - first:
+      213: 3403642524638853397
+    second: TILESET_darksouls2_141
+  - first:
+      213: -6002430731481078441
+    second: TILESET_darksouls2_142
+  - first:
+      213: 54283643081157866
+    second: TILESET_darksouls2_143
+  - first:
+      213: 2282756244852828149
+    second: TILESET_darksouls2_144
+  - first:
+      213: -5879084357048384288
+    second: TILESET_darksouls2_145
+  - first:
+      213: 1361873606793418308
+    second: TILESET_darksouls2_146
+  - first:
+      213: 6995547964049639149
+    second: TILESET_darksouls2_147
+  - first:
+      213: -3345858402113966296
+    second: TILESET_darksouls2_148
+  - first:
+      213: 4603614312441293893
+    second: TILESET_darksouls2_149
+  - first:
+      213: 8835245565115287736
+    second: TILESET_darksouls2_150
+  - first:
+      213: -659592245345367035
+    second: TILESET_darksouls2_151
+  - first:
+      213: 5991392301486859190
+    second: TILESET_darksouls2_152
+  - first:
+      213: -758341423319423774
+    second: TILESET_darksouls2_153
+  - first:
+      213: 6078781969446801926
+    second: TILESET_darksouls2_154
+  - first:
+      213: -8190933967000676180
+    second: TILESET_darksouls2_155
+  - first:
+      213: 776775010052337595
+    second: TILESET_darksouls2_156
+  - first:
+      213: 7272633314085756357
+    second: TILESET_darksouls2_157
+  - first:
+      213: -1084392850348008303
+    second: TILESET_darksouls2_158
+  - first:
+      213: 861147586799364945
+    second: TILESET_darksouls2_159
+  - first:
+      213: 6985025106831804105
+    second: TILESET_darksouls2_160
+  - first:
+      213: -6209268759942184208
+    second: TILESET_darksouls2_161
+  - first:
+      213: -4572425353553259416
+    second: TILESET_darksouls2_162
+  - first:
+      213: -6598981041775691566
+    second: TILESET_darksouls2_0
+  - first:
+      213: -7835177133934060779
+    second: TILESET_darksouls2_1
+  - first:
+      213: -7122815080541191273
+    second: TILESET_darksouls2_2
+  - first:
+      213: -3124583274110080587
+    second: TILESET_darksouls2_3
+  - first:
+      213: 70442790089667778
+    second: TILESET_darksouls2_4
+  - first:
+      213: 7859700832037162364
+    second: TILESET_darksouls2_5
+  - first:
+      213: -1462955071778630708
+    second: TILESET_darksouls2_6
+  - first:
+      213: -1182049973141095604
+    second: TILESET_darksouls2_7
+  - first:
+      213: -4712426934877477956
+    second: TILESET_darksouls2_8
+  - first:
+      213: 8002688074607362884
+    second: TILESET_darksouls2_9
+  - first:
+      213: -4438963964159265679
+    second: TILESET_darksouls2_10
+  - first:
+      213: -7380899314725092219
+    second: TILESET_darksouls2_11
+  - first:
+      213: 8593186598295959679
+    second: TILESET_darksouls2_12
+  - first:
+      213: 8383863614759528913
+    second: TILESET_darksoulsTEST_0
+  - first:
+      213: 2015413924578351520
+    second: TILESET_darksoulsTEST_1
+  - first:
+      213: -8556043095659645357
+    second: TILESET_darksoulsTEST_2
+  - first:
+      213: -4291795445606211436
+    second: TILESET_darksoulsTEST_3
+  - first:
+      213: 1184432897913293872
+    second: TILESET_darksoulsTEST_4
+  - first:
+      213: -5690073228900276894
+    second: TILESET_darksoulsTEST_5
+  - first:
+      213: -6281902235995617951
+    second: TILESET_darksoulsTEST_6
+  - first:
+      213: 1882941120942129228
+    second: TILESET_darksoulsTEST_7
+  - first:
+      213: 5891390273921176854
+    second: TILESET_darksoulsTEST_8
+  - first:
+      213: -7675105628896470050
+    second: TILESET_darksoulsTEST_9
+  - first:
+      213: -1849653322073441939
+    second: TILESET_darksoulsTEST_10
+  - first:
+      213: 3248866436422578136
+    second: TILESET_darksoulsTEST_11
+  - first:
+      213: 572921896248038222
+    second: TILESET_darksoulsTEST_12
+  - first:
+      213: 5757282517124045126
+    second: TILESET_darksoulsTEST_13
+  - first:
+      213: 3644010596499880354
+    second: TILESET_darksoulsTEST_14
+  - first:
+      213: 3598502814984184127
+    second: TILESET_darksoulsTEST_15
+  - first:
+      213: -7450738437534801931
+    second: TILESET_darksoulsTEST_16
+  - first:
+      213: 8657659444944427013
+    second: TILESET_darksoulsTEST_17
+  - first:
+      213: -7177063366674684693
+    second: TILESET_darksoulsTEST_18
+  - first:
+      213: 3503594304673141795
+    second: TILESET_darksoulsTEST_19
+  - first:
+      213: -1568606811082297437
+    second: TILESET_darksoulsTEST_20
+  - first:
+      213: 5363166843086856170
+    second: TILESET_darksoulsTEST_21
+  - first:
+      213: -2838499312105973452
+    second: TILESET_darksoulsTEST_22
+  - first:
+      213: 4700687209649825164
+    second: TILESET_darksoulsTEST_23
+  - first:
+      213: -5217223328690785868
+    second: TILESET_darksoulsTEST_24
+  - first:
+      213: -4114898945235736261
+    second: TILESET_darksoulsTEST_25
+  - first:
+      213: 2922618420917027917
+    second: TILESET_darksoulsTEST_26
+  - first:
+      213: 2447772049237243792
+    second: TILESET_darksoulsTEST_27
+  - first:
+      213: -516210591686548319
+    second: TILESET_darksoulsTEST_28
+  - first:
+      213: -8872676367016391452
+    second: TILESET_darksoulsTEST_29
+  - first:
+      213: -686945570875687685
+    second: TILESET_darksoulsTEST_30
+  - first:
+      213: -6992365493597887220
+    second: TILESET_darksoulsTEST_31
+  - first:
+      213: 5980219617504982512
+    second: TILESET_darksoulsTEST_32
+  - first:
+      213: -4988390882525332211
+    second: TILESET_darksoulsTEST_33
+  - first:
+      213: -5218230653401318193
+    second: TILESET_darksoulsTEST_34
+  - first:
+      213: 1063469069618912421
+    second: TILESET_darksoulsTEST_35
+  - first:
+      213: 9187434748180253788
+    second: TILESET_darksoulsTEST_36
+  - first:
+      213: 764717231782841662
+    second: TILESET_darksoulsTEST_37
+  - first:
+      213: -749359766564290419
+    second: TILESET_darksoulsTEST_38
+  - first:
+      213: -4650478664614677598
+    second: TILESET_darksoulsTEST_39
+  - first:
+      213: 52764165599808784
+    second: TILESET_darksoulsTEST_40
+  - first:
+      213: -8436723330112120293
+    second: TILESET_darksoulsTEST_41
+  - first:
+      213: -4211394633657770510
+    second: TILESET_darksoulsTEST_42
+  - first:
+      213: -8527383850616092045
+    second: TILESET_darksoulsTEST_43
+  - first:
+      213: 1281375256832840435
+    second: TILESET_darksoulsTEST_44
+  - first:
+      213: 1230346126056283717
+    second: TILESET_darksoulsTEST_45
+  - first:
+      213: 5712641301783287544
+    second: TILESET_darksoulsTEST_46
+  - first:
+      213: -4676184626083453298
+    second: TILESET_darksoulsTEST_47
+  - first:
+      213: -8590725281132678094
+    second: TILESET_darksoulsTEST_48
+  - first:
+      213: 6902389966182908659
+    second: TILESET_darksoulsTEST_49
+  - first:
+      213: 8683325720455564367
+    second: TILESET_darksoulsTEST_50
+  - first:
+      213: 5568447641902482441
+    second: TILESET_darksoulsTEST_51
+  - first:
+      213: -753583735487830332
+    second: TILESET_darksoulsTEST_52
+  - first:
+      213: -6077551524183274003
+    second: TILESET_darksoulsTEST_53
+  - first:
+      213: 9213020805622053506
+    second: TILESET_darksoulsTEST_54
+  - first:
+      213: -2192570147175357345
+    second: TILESET_darksoulsTEST_55
+  - first:
+      213: -1180294450220117642
+    second: TILESET_darksoulsTEST_56
+  - first:
+      213: 2340527727044362022
+    second: TILESET_darksoulsTEST_57
+  - first:
+      213: 7042598728090129410
+    second: TILESET_darksoulsTEST_58
+  - first:
+      213: -8986298921923001076
+    second: TILESET_darksoulsTEST_59
+  - first:
+      213: 3823534544378669366
+    second: TILESET_darksoulsTEST_60
+  - first:
+      213: -3401025720033190650
+    second: TILESET_darksoulsTEST_61
+  - first:
+      213: 5456002200468813069
+    second: TILESET_darksoulsTEST_62
+  - first:
+      213: -7840100685056858469
+    second: TILESET_darksoulsTEST_63
+  - first:
+      213: -1346110605410014081
+    second: TILESET_darksoulsTEST_64
+  - first:
+      213: 3730521722838100034
+    second: TILESET_darksoulsTEST_65
+  - first:
+      213: -452335827690431454
+    second: TILESET_darksoulsTEST_66
+  - first:
+      213: 6827606113162979770
+    second: TILESET_darksoulsTEST_67
+  - first:
+      213: -4514654939492683359
+    second: TILESET_darksoulsTEST_68
+  - first:
+      213: 8116519152570798558
+    second: TILESET_darksoulsTEST_69
+  - first:
+      213: 4088009566690513180
+    second: TILESET_darksoulsTEST_70
+  - first:
+      213: 7982388843472382982
+    second: TILESET_darksoulsTEST_71
+  - first:
+      213: 1032716947359052815
+    second: TILESET_darksoulsTEST_72
+  - first:
+      213: 2767012791567030640
+    second: TILESET_darksoulsTEST_73
+  - first:
+      213: -6340617882218127117
+    second: TILESET_darksoulsTEST_74
+  - first:
+      213: 7979965278619429820
+    second: TILESET_darksoulsTEST_75
+  - first:
+      213: -3268405512868044547
+    second: TILESET_darksoulsTEST_76
+  - first:
+      213: -719571535026560955
+    second: TILESET_darksoulsTEST_77
+  - first:
+      213: 3282463381705970712
+    second: TILESET_darksoulsTEST_78
+  - first:
+      213: -728832538264598520
+    second: TILESET_darksoulsTEST_79
+  - first:
+      213: 2915139914384742277
+    second: TILESET_darksoulsTEST_80
+  - first:
+      213: 5198383422966034680
+    second: TILESET_darksoulsTEST_81
+  - first:
+      213: 4546317613283516499
+    second: TILESET_darksoulsTEST_82
+  - first:
+      213: 8234289581279066681
+    second: TILESET_darksoulsTEST_83
+  - first:
+      213: 8915838784708556608
+    second: TILESET_darksoulsTEST_84
+  - first:
+      213: 2147330725123499394
+    second: TILESET_darksoulsTEST_85
+  - first:
+      213: 5197491596983146763
+    second: TILESET_darksoulsTEST_86
+  - first:
+      213: 2180175281435148597
+    second: TILESET_darksoulsTEST_87
+  - first:
+      213: -4726683018765815789
+    second: TILESET_darksoulsTEST_88
+  - first:
+      213: 7717280504506887445
+    second: TILESET_darksoulsTEST_89
+  - first:
+      213: 6390832988827738464
+    second: TILESET_darksoulsTEST_90
+  - first:
+      213: -881338062355201263
+    second: TILESET_darksoulsTEST_91
+  - first:
+      213: 5916731495233958159
+    second: TILESET_darksoulsTEST_92
+  - first:
+      213: 3217935616249972847
+    second: TILESET_darksoulsTEST_93
+  - first:
+      213: 5654945056530537231
+    second: TILESET_darksoulsTEST_94
+  - first:
+      213: 3992016150135426783
+    second: TILESET_darksoulsTEST_95
+  - first:
+      213: -1541314296661861192
+    second: TILESET_darksoulsTEST_96
+  - first:
+      213: -3954202401117954265
+    second: TILESET_darksoulsTEST_97
+  - first:
+      213: -7443784700842285320
+    second: TILESET_darksoulsTEST_98
+  - first:
+      213: -6609988652484437029
+    second: TILESET_darksoulsTEST_99
+  - first:
+      213: -7339683980587261072
+    second: TILESET_darksoulsTEST_100
+  - first:
+      213: -5549385718906681512
+    second: TILESET_darksoulsTEST_101
+  - first:
+      213: 8062245848283090306
+    second: TILESET_darksoulsTEST_102
+  - first:
+      213: -2391699610428461037
+    second: TILESET_darksoulsTEST_103
+  - first:
+      213: -3492535374017281283
+    second: TILESET_darksoulsTEST_104
+  - first:
+      213: 5194454367283662365
+    second: TILESET_darksoulsTEST_105
+  - first:
+      213: 2778636281889892420
+    second: TILESET_darksoulsTEST_106
+  - first:
+      213: 6098390920685055458
+    second: TILESET_darksoulsTEST_107
+  - first:
+      213: 1544832393301317801
+    second: TILESET_darksoulsTEST_108
+  - first:
+      213: -7139129477348776600
+    second: TILESET_darksoulsTEST_109
+  - first:
+      213: 5618481444830379186
+    second: TILESET_darksoulsTEST_110
+  - first:
+      213: -7572055585443510009
+    second: TILESET_darksoulsTEST_111
+  - first:
+      213: 7310834562092910902
+    second: TILESET_darksoulsTEST_112
+  - first:
+      213: -2451786743470738029
+    second: TILESET_darksoulsTEST_113
+  - first:
+      213: -6196435032657104524
+    second: TILESET_darksoulsTEST_114
+  - first:
+      213: -7347623432594790650
+    second: TILESET_darksoulsTEST_115
+  - first:
+      213: 3849494132291253902
+    second: TILESET_darksoulsTEST_116
+  - first:
+      213: -2791252452103931893
+    second: TILESET_darksoulsTEST_117
+  - first:
+      213: -6618226681391904080
+    second: TILESET_darksoulsTEST_118
+  - first:
+      213: -4153039093966629255
+    second: TILESET_darksoulsTEST_119
+  - first:
+      213: 3888646449461918442
+    second: TILESET_darksoulsTEST_120
+  - first:
+      213: 5144228143409615034
+    second: TILESET_darksoulsTEST_121
+  - first:
+      213: -1359374744949944616
+    second: TILESET_darksoulsTEST_122
+  - first:
+      213: 9079188546775852509
+    second: TILESET_darksoulsTEST_123
+  - first:
+      213: -5057110323786699144
+    second: TILESET_darksoulsTEST_124
+  - first:
+      213: 6417486201765126438
+    second: TILESET_darksoulsTEST_125
+  - first:
+      213: 568275496989938779
+    second: TILESET_darksoulsTEST_126
+  - first:
+      213: 7523415280651990618
+    second: TILESET_darksoulsTEST_127
+  - first:
+      213: 5350056983702793023
+    second: TILESET_darksoulsTEST_128
+  - first:
+      213: -958222486364479862
+    second: TILESET_darksoulsTEST_129
+  - first:
+      213: -6424947168699143435
+    second: TILESET_darksoulsTEST_130
+  - first:
+      213: 4201967835244875843
+    second: TILESET_darksoulsTEST_131
+  - first:
+      213: -2077701574694388312
+    second: TILESET_darksoulsTEST_132
+  - first:
+      213: -7565876268053588471
+    second: TILESET_darksoulsTEST_133
+  - first:
+      213: 4223972460800618061
+    second: TILESET_darksoulsTEST_134
+  - first:
+      213: 3799579516515820937
+    second: TILESET_darksoulsTEST_135
+  - first:
+      213: -9045538181451406540
+    second: TILESET_darksoulsTEST_136
+  - first:
+      213: 8505196348572596738
+    second: TILESET_darksoulsTEST_137
+  - first:
+      213: 1586313871971183500
+    second: TILESET_darksoulsTEST_138
+  - first:
+      213: -3781064229471314783
+    second: TILESET_darksoulsTEST_139
+  - first:
+      213: 5058450444988745890
+    second: TILESET_darksoulsTEST_140
+  - first:
+      213: 2184875196227119811
+    second: TILESET_darksoulsTEST_141
+  - first:
+      213: 455833942649441778
+    second: TILESET_darksoulsTEST_142
+  - first:
+      213: 5510288183976752547
+    second: TILESET_darksoulsTEST_143
+  - first:
+      213: -2242356784537122496
+    second: TILESET_darksoulsTEST_144
+  - first:
+      213: 5552212569434227120
+    second: TILESET_darksoulsTEST_145
+  - first:
+      213: 7460930206404157046
+    second: TILESET_darksoulsTEST_146
+  - first:
+      213: -7705591702605044624
+    second: TILESET_darksoulsTEST_147
+  - first:
+      213: -1224335582724647931
+    second: TILESET_darksoulsTEST_148
+  - first:
+      213: -313252786998789357
+    second: TILESET_darksoulsTEST_149
+  - first:
+      213: -1826731745606539123
+    second: TILESET_darksoulsTEST_150
+  - first:
+      213: -3361195784532461738
+    second: TILESET_darksoulsTEST_151
+  - first:
+      213: -7904741346882219275
+    second: TILESET_darksoulsTEST_152
+  - first:
+      213: -7843178486928470449
+    second: TILESET_darksoulsTEST_153
+  - first:
+      213: -8824161210599520545
+    second: TILESET_darksoulsTEST_154
+  - first:
+      213: 1054545613016016195
+    second: TILESET_darksoulsTEST_155
+  - first:
+      213: -6610615817222254410
+    second: TILESET_darksoulsTEST_156
+  - first:
+      213: 4172903120768186392
+    second: TILESET_darksoulsTEST_157
+  - first:
+      213: 2464074945701290561
+    second: TILESET_darksoulsTEST_158
+  - first:
+      213: -5497216095667761113
+    second: TILESET_darksoulsTEST_159
+  - first:
+      213: -4328206867701638355
+    second: TILESET_darksoulsTEST_160
+  - first:
+      213: 1669192957496693180
+    second: TILESET_darksoulsTEST_161
+  - first:
+      213: 6819599234593241405
+    second: TILESET_darksoulsTEST_162
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9601bb987795470800000000000000
+      internalID: 8383863614759528913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a95ed9494038fb10800000000000000
+      internalID: 2015413924578351520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356f548e224d24980800000000000000
+      internalID: -8556043095659645357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a008f7ca7074c0800000000000000
+      internalID: -4291795445606211436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c886cf173ff6010800000000000000
+      internalID: 1184432897913293872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265607dab8cc801b0800000000000000
+      internalID: -5690073228900276894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165cfb5033332d8a0800000000000000
+      internalID: -6281902235995617951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c404bb629fc812a10800000000000000
+      internalID: 1882941120942129228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615534e7d3c62c150800000000000000
+      internalID: 5891390273921176854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb5600581c8c7590800000000000000
+      internalID: -7675105628896470050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69f03c7a16b456e0800000000000000
+      internalID: -1849653322073441939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df28a98fca461d20800000000000000
+      internalID: 3248866436422578136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4358eddd6d63f700800000000000000
+      internalID: 572921896248038222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649deb822f9f5ef40800000000000000
+      internalID: 5757282517124045126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9722aa450229230800000000000000
+      internalID: 3644010596499880354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31206a9e3370f130800000000000000
+      internalID: 3598502814984184127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff9364edd8a99890800000000000000
+      internalID: -7450738437534801931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d73a156f262870800000000000000
+      internalID: 8657659444944427013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4e2eac4e2f56c90800000000000000
+      internalID: -7177063366674684693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324df1f05744f9030800000000000000
+      internalID: 3503594304673141795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af6e298a603b3ae0800000000000000
+      internalID: -1568606811082297437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef585914dbcd6a40800000000000000
+      internalID: 5363166843086856170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4399bb62aef9b98d0800000000000000
+      internalID: -2838499312105973452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856663ac123c3140800000000000000
+      internalID: 4700687209649825164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1318b4603b897b0800000000000000
+      internalID: -5217223328690785868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3928920631f4e6c0800000000000000
+      internalID: -4114898945235736261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c5c818f93f8820800000000000000
+      internalID: 2922618420917027917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0977aedb5bb38f120800000000000000
+      internalID: 2447772049237243792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4aa3da33d06d8f0800000000000000
+      internalID: -516210591686548319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec0cf88adbedd480800000000000000
+      internalID: -8872676367016391452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3de394aa7776f0800000000000000
+      internalID: -686945570875687685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05266671a026fe90800000000000000
+      internalID: -6992365493597887220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f43cbe020ef250800000000000000
+      internalID: 5980219617504982512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0db7460ceca5cab0800000000000000
+      internalID: -4988390882525332211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb5fb3ede1597b0800000000000000
+      internalID: -5218230653401318193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac104cfb7332ce00800000000000000
+      internalID: 1063469069618912421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_36
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4d52f933508f70800000000000000
+      internalID: 9187434748180253788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d490a4542dc9a00800000000000000
+      internalID: 764717231782841662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8047f8334db995f0800000000000000
+      internalID: -749359766564290419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3fb183b4e267fb0800000000000000
+      internalID: -4650478664614677598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d4273aab47bb000800000000000000
+      internalID: 52764165599808784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a9a68b4dcbaea80800000000000000
+      internalID: -8436723330112120293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd97d3c4ee1e85c0800000000000000
+      internalID: -4211394633657770510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a00a06195a8a980800000000000000
+      internalID: -8527383850616092045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21f7fc10c58c110800000000000000
+      internalID: 1281375256832840435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54edc527841131110800000000000000
+      internalID: 1230346126056283717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f694024ff0674f40800000000000000
+      internalID: 5712641301783287544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86272aabdada1fb0800000000000000
+      internalID: -4676184626083453298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347e175fdc97c880800000000000000
+      internalID: -8590725281132678094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28d839a173acf50800000000000000
+      internalID: 6902389966182908659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c44cc8cbe518870800000000000000
+      internalID: 8683325720455564367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90485fd90a9174d40800000000000000
+      internalID: 5568447641902482441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66cb1d59bba85f0800000000000000
+      internalID: -753583735487830332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0ce8c61338aba0800000000000000
+      internalID: -6077551524183274003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ab26b2c993bdf70800000000000000
+      internalID: 9213020805622053506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54ac70611d6291e0800000000000000
+      internalID: -2192570147175357345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_56
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671d3447370ce9fe0800000000000000
+      internalID: -1180294450220117642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f7e6d21993b7020800000000000000
+      internalID: 2340527727044362022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041e6bda365cb160800000000000000
+      internalID: 7042598728090129410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05cd41fdb04a4380800000000000000
+      internalID: -8986298921923001076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6392020096cef0530800000000000000
+      internalID: 3823534544378669366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d547580212dc0d0800000000000000
+      internalID: -3401025720033190650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0571bc181d97bb40800000000000000
+      internalID: 5456002200468813069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a3ef27fd523390800000000000000
+      internalID: -7840100685056858469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c66205987a15de0800000000000000
+      internalID: -1346110605410014081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248a4a4edb975c330800000000000000
+      internalID: 3730521722838100034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c545716faf8b9f0800000000000000
+      internalID: -452335827690431454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96d51f59780ce50800000000000000
+      internalID: 6827606113162979770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_68
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a173109049b851c0800000000000000
+      internalID: -4514654939492683359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed113a58a2ba3a070800000000000000
+      internalID: 8116519152570798558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_70
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119cfcaa078bb830800000000000000
+      internalID: 4088009566690513180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_71
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c66325c5427ce60800000000000000
+      internalID: 7982388843472382982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_72
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bcd09792f45e00800000000000000
+      internalID: 1032716947359052815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07990524977666620800000000000000
+      internalID: 2767012791567030640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f026e151a99108a0800000000000000
+      internalID: -6340617882218127117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbef0824288ebe60800000000000000
+      internalID: 7979965278619429820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df06297b08a44a2d0800000000000000
+      internalID: -3268405512868044547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_77
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540624850819306f0800000000000000
+      internalID: -719571535026560955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814dfceed07ad8d20800000000000000
+      internalID: 3282463381705970712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080efffaaaa2e5f0800000000000000
+      internalID: -728832538264598520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_80
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587177b9e48a47820800000000000000
+      internalID: 2915139914384742277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_81
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07b245e2e542840800000000000000
+      internalID: 5198383422966034680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350add728c3c71f30800000000000000
+      internalID: 4546317613283516499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ab6dd3fb2164270800000000000000
+      internalID: 8234289581279066681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0473435f22c6bbb70800000000000000
+      internalID: 8915838784708556608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_85
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a44edae9dccd10800000000000000
+      internalID: 2147330725123499394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b091249e113312840800000000000000
+      internalID: 5197491596983146763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531870e0ed9814e10800000000000000
+      internalID: 2180175281435148597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310b79466d2776eb0800000000000000
+      internalID: -4726683018765815789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_89
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2e2f1bb9491b60800000000000000
+      internalID: 7717280504506887445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ece54ebcc0b850800000000000000
+      internalID: 6390832988827738464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_91
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113894aa3bbd4c3f0800000000000000
+      internalID: -881338062355201263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0139cc52f37c1250800000000000000
+      internalID: 5916731495233958159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6848a4c46768ac20800000000000000
+      internalID: 3217935616249972847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_94
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b9ad651966a7e40800000000000000
+      internalID: 5654945056530537231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_95
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec176b98d766730800000000000000
+      internalID: 3992016150135426783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_96
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1d3c30d62c9ae0800000000000000
+      internalID: -1541314296661861192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_97
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f1e5fcdd9df19c0800000000000000
+      internalID: -3954202401117954265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6eec1e04d52b890800000000000000
+      internalID: -7443784700842285320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5d4f775a9444a0800000000000000
+      internalID: -6609988652484437029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a8759e44342a90800000000000000
+      internalID: -7339683980587261072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_101
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85701fe271f9cf2b0800000000000000
+      internalID: -5549385718906681512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d08c622e9d2ef60800000000000000
+      internalID: 8062245848283090306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310b8f640e9feced0800000000000000
+      internalID: -2391699610428461037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_104
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2c632e495088fc0800000000000000
+      internalID: -3492535374017281283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_105
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e4be3c9b8661840800000000000000
+      internalID: 5194454367283662365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4482f0ef9f2bf8620800000000000000
+      internalID: 2778636281889892420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_107
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed66e05b36d1a450800000000000000
+      internalID: 6098390920685055458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_108
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8dd3870e8507510800000000000000
+      internalID: 1544832393301317801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_109
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8652b19a097bcec90800000000000000
+      internalID: -7139129477348776600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_110
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcfc382b1bd8fd40800000000000000
+      internalID: 5618481444830379186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_111
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70980224097aae690800000000000000
+      internalID: -7572055585443510009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_112
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639423dbc4d457560800000000000000
+      internalID: 7310834562092910902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_113
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953a6a62f089fdd0800000000000000
+      internalID: -2451786743470738029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ffacfa27d10aa0800000000000000
+      internalID: -6196435032657104524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e9dcda6ff70a90800000000000000
+      internalID: -7347623432594790650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_116
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86bb2094862c6530800000000000000
+      internalID: 3849494132291253902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0838e9feaa7349d0800000000000000
+      internalID: -2791252452103931893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_118
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba8f9ce5e55724a0800000000000000
+      internalID: -6618226681391904080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_119
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9761fc1a2f07d56c0800000000000000
+      internalID: -4153039093966629255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_120
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaf245c75f37f530800000000000000
+      internalID: 3888646449461918442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_121
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab05f7bbd38f36740800000000000000
+      internalID: 5144228143409615034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_122
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0f9a2fd7822de0800000000000000
+      internalID: -1359374744949944616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_123
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5ae5331e1cffd70800000000000000
+      internalID: 9079188546775852509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_124
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eabb844f881d9b0800000000000000
+      internalID: -5057110323786699144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_125
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216e2ff2bd7f0950800000000000000
+      internalID: 6417486201765126438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_126
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d4acbd8be2e700800000000000000
+      internalID: 568275496989938779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_127
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f105465a886860800000000000000
+      internalID: 7523415280651990618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_128
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be3b91b783f3a40800000000000000
+      internalID: 5350056983702793023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_129
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e147cb9b5b3b2f0800000000000000
+      internalID: -958222486364479862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_130
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa2905479006d6a0800000000000000
+      internalID: -6424947168699143435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3405361bb73605a30800000000000000
+      internalID: 4201967835244875843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_132
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad321b0d658a23e0800000000000000
+      internalID: -2077701574694388312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_133
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9069b14be9b900790800000000000000
+      internalID: -7565876268053588471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_134
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ead03d2909e9a30800000000000000
+      internalID: 4223972460800618061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_135
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985a6c17071dab430800000000000000
+      internalID: 3799579516515820937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_136
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332b5403fac77280800000000000000
+      internalID: -9045538181451406540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_137
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a7e9d3407880670800000000000000
+      internalID: 8505196348572596738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_138
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bed19df08b30610800000000000000
+      internalID: 1586313871971183500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_139
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1d61cd16f68bc0800000000000000
+      internalID: -3781064229471314783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_140
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8887ff0e9333640800000000000000
+      internalID: 5058450444988745890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_141
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caedad3a6c325e10800000000000000
+      internalID: 2184875196227119811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_142
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8f244e82735600800000000000000
+      internalID: 455833942649441778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_143
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a577f798e9787c40800000000000000
+      internalID: 5510288183976752547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_144
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0494afd826c81e0e0800000000000000
+      internalID: -2242356784537122496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_145
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1069e3aeb6d0d40800000000000000
+      internalID: 5552212569434227120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_146
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e93b63e7c8a8760800000000000000
+      internalID: 7460930206404157046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07467062c2d301590800000000000000
+      internalID: -7705591702605044624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_148
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50493d93649420fe0800000000000000
+      internalID: -1224335582724647931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_149
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b390aff3a17abf0800000000000000
+      internalID: -313252786998789357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_150
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d886133e72526a6e0800000000000000
+      internalID: -1826731745606539123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_151
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657f66a0e32aa51d0800000000000000
+      internalID: -3361195784532461738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_152
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21eb940a7bc4290800000000000000
+      internalID: -7904741346882219275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_153
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e84a898be672390800000000000000
+      internalID: -7843178486928470449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_154
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64f61a1284a8580800000000000000
+      internalID: -8824161210599520545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_155
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3452447d5af72ae00800000000000000
+      internalID: 1054545613016016195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_156
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b093e350ff5244a0800000000000000
+      internalID: -6610615817222254410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_157
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b183874129e930800000000000000
+      internalID: 4172903120768186392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_158
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142277e9b17223220800000000000000
+      internalID: 2464074945701290561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_159
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720d9242617f5b3b0800000000000000
+      internalID: -5497216095667761113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_160
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bdc3029ce1fe3c0800000000000000
+      internalID: -4328206867701638355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_161
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19c2da62a2a2710800000000000000
+      internalID: 1669192957496693180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_darksoulsTEST_162
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39b4704f5514ae50800000000000000
+      internalID: 6819599234593241405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

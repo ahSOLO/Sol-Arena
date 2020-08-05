@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flyer
+  m_Controller: {fileID: 9100000, guid: e812501020ee87745ad3426b3a39364e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 18b24d825822f9e4daf2ee9bed8c33e2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c96ea76e715ee40469c783ef35486d6a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0bc1a1b04fed086419a28db9a3560fd8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cfb365927622a52489276900f3344ef4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a9acb20cf23dd384da5e1c5f05ff5646, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb1c87ca49676e146b7ad5c79ab1a16e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 92b21ef2cba339e44ad0e11a1d81c501, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e8304bf61a2f00a44b4212636c3ff2e3, type: 2}
