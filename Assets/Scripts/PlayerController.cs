@@ -74,7 +74,7 @@ public class PlayerController : MonoBehaviour
         if (state != State.dead) // only move if alive
         {
             // Get Input
-            float hDirection = Input.GetAxis("Horizontal");
+            float hDirection = Input.GetAxisRaw("Horizontal");
             // Set coyote time - downwards raycast from left and right bounds of collision box
             SetCoyoteTime(0.15f);
             // Disable horizontal ground movement, jumping ability, and FSM transitions when attacking
